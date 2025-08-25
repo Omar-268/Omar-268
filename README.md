@@ -15,8 +15,9 @@ I am a passionate DevOps engineer dedicated to building and automating scalable,
 
 - 🐳 Docker  
 - ☸️ Kubernetes  
-- 🔧 Jenkins & Ansible (CI/CD Automation)  
-- 🐍 Python & Flask  
+- 🔧 Jenkins (CI/CD)
+- ⚙️ Ansible (Automation)  
+- 🐍 Python  
 - 🖥️ Bash scripting & System Monitoring  
 
 ---
