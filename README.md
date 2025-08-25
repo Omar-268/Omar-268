@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Omar Ahmed (Omar-268)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/omar-ahmed-3636402b8/)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=flat-square)](https://github.com/Omar-268)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=flat-square)](mailto:contactme.omarahmed@gmail.com)
 
 ---
 
