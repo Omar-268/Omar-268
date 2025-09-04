@@ -1,27 +1,66 @@
-# 👋 Hi, I’m Omar Ahmed (Omar-268)
+<p align="center">Hi, I'm Omar Ahmed</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/omar-ahmed-3636402b8/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=flat-square)](mailto:contactme.omarahmed@gmail.com)
+###
 
----
+<p align="center">DevOps Engineer | Cloud Engineer</p>
 
-## 🚀 About Me
+###
 
-I am a passionate DevOps engineer dedicated to building and automating scalable, reliable cloud-native applications. I specialize in CI/CD pipelines, containerization, cloud infrastructure automation, and system monitoring. I enjoy leveraging tools like Docker, Kubernetes, Jenkins, and Ansible to streamline application deployment and enhance system reliability.
+<p align="left">📤 Contact & Social:</p>
 
----
+###
 
-## 🛠️ Technologies & Tools
+<div align="left">
+  <a href="https://www.linkedin.com/in/omar-ahmed-3636402b8/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:contactme.omarahmed@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
 
-- 🐳 Docker  
-- ☸️ Kubernetes  
-- 🔧 Jenkins (CI/CD)
-- ⚙️ Ansible (Automation)  
-- 🐍 Python  
-- 🖥️ Bash scripting 
+###
 
----
+<p align="left">🛠️ Languages & Tools:</p>
 
+###
 
-Feel free to reach out for collaboration or discussion around Kubernetes, DevOps, and cloud technologies!
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="jenkins logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+</div>
 
+###
+
+<img src="https://raw.githubusercontent.com/Omar268/Omar268/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Omar268.Omar268&"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+
+###
