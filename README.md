@@ -1,11 +1,10 @@
-## Hi, I'm Omar Ahmed
+<h3 align="center" style="font-weight: normal;">Hi, I'm Omar Ahmed</h3>
 
----
+<hr/>
 
-### DevOps Engineer | Cloud Engineer
+<h4 align="center" style="font-weight: normal;">DevOps Engineer | Cloud Engineer</h4>
 
----
-
+<hr/>
 
 ###
 
