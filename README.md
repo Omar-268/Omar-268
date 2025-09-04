@@ -1,10 +1,8 @@
 <h3 align="center" style="font-weight: normal;">Hi, I'm Omar Ahmed</h3>
-
-<hr/>
+<hr style="height:1px; border:none; background-color:#000; width:50%; margin:auto;" />
 
 <h4 align="center" style="font-weight: normal;">DevOps Engineer | Cloud Engineer</h4>
-
-<hr/>
+<hr style="height:1px; border:none; background-color:#000; width:50%; margin:auto;" />
 
 ###
 
