@@ -1,8 +1,16 @@
-<h3 align="center">### Hi, I'm Omar Ahmed</h3>
+<h3 align="center" style="font-weight: normal;">Hi, I'm Omar Ahmed</h3>
 
-<h4 align="center">#### DevOps Engineer | Cloud Engineer</h4>
+<hr/>
+
+<h4 align="center" style="font-weight: normal;">DevOps Engineer | Cloud Engineer</h4>
+
+<hr/>
+
+###
 
 <p align="left">📤 Contact & Social:</p>
+
+###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/omar-ahmed-3636402b8/" target="_blank">
@@ -13,7 +21,11 @@
   </a>
 </div>
 
+###
+
 <p align="left">🛠️ Languages & Tools:</p>
+
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
@@ -37,11 +49,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
 </div>
 
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
   <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </picture>
+
+###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Omar268.Omar268&"  />
