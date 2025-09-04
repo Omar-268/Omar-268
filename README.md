@@ -1,10 +1,11 @@
-<h3 align="center" style="font-weight: normal;">Hi, I'm Omar Ahmed</h3>
+## Hi, I'm Omar Ahmed
 
-<hr/>
+---
 
-<h4 align="center" style="font-weight: normal;">DevOps Engineer | Cloud Engineer</h4>
+### DevOps Engineer | Cloud Engineer
 
-<hr/>
+---
+
 
 ###
 
