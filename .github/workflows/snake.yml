@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: Omar268   
+          github_user_name: Omar-268   
           outputs: dist/snake.svg
 
       - name: Push generated snake.svg to the output branch
