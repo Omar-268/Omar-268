@@ -1,8 +1,10 @@
 <p align="center">Hi, I'm Omar Ahmed</p>
 
-###
+<hr/>
 
 <p align="center">DevOps Engineer | Cloud Engineer</p>
+
+<hr/>
 
 ###
 
