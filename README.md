@@ -58,5 +58,11 @@
 ###
 
 <div align="center">
+  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2x5anYzMmRoOWhjNzZ6NzE1dWNjaWo2dzhxczc3bWFjejYycTZsaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
+</div>
+
+###
+
+<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Omar268.Omar268&"  />
 </div>
